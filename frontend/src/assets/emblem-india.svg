@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 150" width="40" height="50" aria-label="State Emblem of India" role="img">
+  <g fill="#003366">
+    <!-- Ashoka Lion Capital stylized government emblem silhouette -->
+    <!-- Top Lions -->
+    <path d="M42 12 C42 6, 48 2, 60 2 C72 2, 78 6, 78 12 C78 18, 74 22, 60 22 C46 22, 42 18, 42 12 Z" />
+    <path d="M28 20 C28 14, 34 10, 42 12 C42 22, 38 28, 28 28 Z" />
+    <path d="M92 20 C92 14, 86 10, 78 12 C78 22, 82 28, 92 28 Z" />
+    <!-- Lion Heads and Mane -->
+    <path d="M50 22 L70 22 L74 45 L60 52 L46 45 Z" />
+    <path d="M30 26 L46 24 L48 45 L36 48 L26 40 Z" />
+    <path d="M90 26 L74 24 L72 45 L84 48 L94 40 Z" />
+    <!-- Center Column / Paws -->
+    <path d="M42 50 L78 50 L76 72 L60 76 L44 72 Z" />
+    <path d="M32 48 L42 50 L44 70 L30 68 Z" />
+    <path d="M88 48 L78 50 L76 70 L90 68 Z" />
+    <!-- Abacus Band -->
+    <rect x="22" y="76" width="76" height="8" rx="2" />
+    <!-- Ashoka Chakra in Center of Abacus -->
+    <circle cx="60" cy="94" r="10" fill="none" stroke="#003366" stroke-width="2.5" />
+    <circle cx="60" cy="94" r="2.5" />
+    <!-- Bull and Horse on sides -->
+    <ellipse cx="36" cy="94" rx="7" ry="5" />
+    <ellipse cx="84" cy="94" rx="7" ry="5" />
+    <!-- Base Plinth -->
+    <path d="M16 108 L104 108 L96 116 L24 116 Z" />
+    <rect x="18" y="118" width="84" height="4" rx="1" />
+    <!-- Motto: Satyameva Jayate (stylized text) -->
+    <text x="60" y="136" font-family="'Noto Sans', 'Segoe UI', serif" font-size="10" font-weight="bold" text-anchor="middle" letter-spacing="1">सत्यमेव जयते</text>
+  </g>
+</svg>
